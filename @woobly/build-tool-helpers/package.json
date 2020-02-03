@@ -22,7 +22,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@woobly/plugin-helpers": "0.0.0",
+    "@woobly/plugin-helpers": "0.0.1",
     "favicons": "5.5.0",
     "html-minifier": "4.0.0",
     "jsonschema": "1.2.5",
