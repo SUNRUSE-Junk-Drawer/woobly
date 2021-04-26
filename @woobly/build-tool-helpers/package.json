@@ -22,7 +22,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "favicons": "5.5.0",
+    "favicons": "6.2.1",
     "html-minifier": "4.0.0",
     "jsonschema": "1.2.5",
     "pngjs": "3.4.0",
